@@ -190,7 +190,7 @@ mydatabase=# SELECT p.titulo as post_titulo, p.contenido as post_contenido, c.co
 
 
 
-
+.
 
 
 
